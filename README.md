@@ -9,9 +9,8 @@
 <br/>
 
 <a href="mailto:hammadshahid863@yahoo.com"><img src="https://img.shields.io/badge/Email-hammadshahid863%40yahoo.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Fiverr-AI%20%26%20Automation-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-hammad-shahid-037991279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="hammadportafolion.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=hammadshahid836-design&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 
