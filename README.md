@@ -28,8 +28,8 @@ class HammadShahid:
     def __init__(self):
         self.location = "Islamabad, Pakistan"
         self.education = "BS Computer Engineering @ UET Taxila (2024 – 2028)"
-        self.focus = ["AI Automation", "RAG Systems", "LLM Agents", "Computer Vision"]
-        self.currently_building = "Multi-modal WhatsApp AI agents & production RAG pipelines"
+        self.focus = ["AI Automation | Langchain/ Langraph | RAG", "NLP ", "Pytorch", "Computer Vision", "Model Training", " Neural Networks"]
+        self.currently_building = "Scalable and reliable Neural Networks systems related to NLP and Vision classsfications"
         self.mission = "Turning AI research into real, deployed products"
 
     def say_hi(self):
@@ -44,6 +44,86 @@ class HammadShahid:
 - ⚡ Fun fact: I'd rather automate a task once than repeat it twice
 
 <br/>
+
+
+## 🧠 Artificial Intelligence & Machine Learning
+
+I enjoy building intelligent systems from the ground up—from collecting and preprocessing data to training, evaluating, and deploying production-ready AI models. My focus is on solving real-world problems using modern Machine Learning, Deep Learning, Computer Vision, and Generative AI technologies.
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning
+- Regression & Classification Models
+- Clustering & Dimensionality Reduction
+- Decision Trees & Random Forests
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Ensemble Learning
+- Feature Engineering
+- Data Cleaning & Preprocessing
+- Hyperparameter Tuning
+- Cross Validation
+- Model Evaluation & Optimization
+
+### 🧠 Deep Learning
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- LSTM & GRU Networks
+- Transformer Architectures
+- Transfer Learning
+- Fine-Tuning Pretrained Models
+- Custom Neural Network Design
+- Loss Function Selection
+- Optimizer Engineering
+- Batch Normalization
+- Regularization Techniques
+- Learning Rate Scheduling
+- Mixed Precision Training
+
+### 🔥 PyTorch
+- Custom Dataset & DataLoader Pipelines
+- Model Architecture Development
+- End-to-End Training Pipelines
+- Validation & Testing Workflows
+- Custom Loss Functions
+- Training Loop Optimization
+- Checkpoint Management
+- GPU Acceleration (CUDA)
+- Tensor Operations
+- Model Serialization
+- Performance Optimization
+
+### 👁️ Computer Vision
+- Image Classification
+- Object Detection
+- OCR Systems
+- Image Preprocessing
+- Feature Extraction
+- Medical Image Analysis
+- OpenCV
+- Vision-Language Models
+- Multimodal AI
+
+### 💬 Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- OpenAI APIs
+- Structured Outputs
+- AI Workflow Automation
+- Multi-Agent Systems
+
+### 📊 Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Data Visualization
+- Statistical Analysis
+- Exploratory Data Analysis (EDA)
 
 ## 🛠️ Tech Stack
 
