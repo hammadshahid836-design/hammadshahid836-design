@@ -46,84 +46,137 @@ class HammadShahid:
 <br/>
 
 
-## 🧠 Artificial Intelligence & Machine Learning
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0YjN5YjN6dXZtOHJiYjB4MXd3cnN1ZWppYTRzbWx5OHV1YnQ4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="45">
+  Artificial Intelligence Engineering
+</h2>
 
-I enjoy building intelligent systems from the ground up—from collecting and preprocessing data to training, evaluating, and deploying production-ready AI models. My focus is on solving real-world problems using modern Machine Learning, Deep Learning, Computer Vision, and Generative AI technologies.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Developer;Generative+AI+Engineer;PyTorch+Enthusiast;Building+Intelligent+Systems" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,git,linux" />
+</p>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
 ### 🤖 Machine Learning
-- Supervised & Unsupervised Learning
-- Regression & Classification Models
-- Clustering & Dimensionality Reduction
-- Decision Trees & Random Forests
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
-- Naive Bayes
-- Ensemble Learning
-- Feature Engineering
-- Data Cleaning & Preprocessing
-- Hyperparameter Tuning
-- Cross Validation
-- Model Evaluation & Optimization
+
+🔹 Supervised Learning<br>
+🔹 Unsupervised Learning<br>
+🔹 Regression Models<br>
+🔹 Classification Models<br>
+🔹 Decision Trees<br>
+🔹 Random Forest<br>
+🔹 XGBoost<br>
+🔹 Support Vector Machines<br>
+🔹 KNN<br>
+🔹 Ensemble Learning<br>
+🔹 Feature Engineering<br>
+🔹 Hyperparameter Tuning<br>
+🔹 Cross Validation<br>
+🔹 Model Evaluation
+
+</td>
+
+<td width="33%" align="center">
 
 ### 🧠 Deep Learning
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- LSTM & GRU Networks
-- Transformer Architectures
-- Transfer Learning
-- Fine-Tuning Pretrained Models
-- Custom Neural Network Design
-- Loss Function Selection
-- Optimizer Engineering
-- Batch Normalization
-- Regularization Techniques
-- Learning Rate Scheduling
-- Mixed Precision Training
+
+🟣 Artificial Neural Networks<br>
+🟣 CNN<br>
+🟣 RNN<br>
+🟣 LSTM<br>
+🟣 GRU<br>
+🟣 Transformers<br>
+🟣 Transfer Learning<br>
+🟣 Fine-Tuning<br>
+🟣 Custom Neural Networks<br>
+🟣 CUDA Training<br>
+🟣 Mixed Precision<br>
+🟣 Loss Engineering<br>
+🟣 Optimizer Engineering
+
+</td>
+
+<td width="33%" align="center">
 
 ### 🔥 PyTorch
-- Custom Dataset & DataLoader Pipelines
-- Model Architecture Development
-- End-to-End Training Pipelines
-- Validation & Testing Workflows
-- Custom Loss Functions
-- Training Loop Optimization
-- Checkpoint Management
-- GPU Acceleration (CUDA)
-- Tensor Operations
-- Model Serialization
-- Performance Optimization
 
-### 👁️ Computer Vision
-- Image Classification
-- Object Detection
-- OCR Systems
-- Image Preprocessing
-- Feature Extraction
-- Medical Image Analysis
-- OpenCV
-- Vision-Language Models
-- Multimodal AI
+⚡ Tensor Operations<br>
+⚡ Dataset & DataLoader<br>
+⚡ Custom Model Development<br>
+⚡ GPU Training (CUDA)<br>
+⚡ Training Pipelines<br>
+⚡ Validation Pipelines<br>
+⚡ Model Checkpointing<br>
+⚡ Inference Optimization<br>
+⚡ Torchvision<br>
+⚡ Experimentation
 
-### 💬 Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- OpenAI APIs
-- Structured Outputs
-- AI Workflow Automation
-- Multi-Agent Systems
+</td>
+</tr>
+</table>
 
-### 📊 Data Science
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Data Visualization
-- Statistical Analysis
-- Exploratory Data Analysis (EDA)
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+### 👁 Computer Vision
+
+📷 OpenCV<br>
+🔍 OCR Systems<br>
+🎯 Object Detection<br>
+🖼 Image Classification<br>
+🏥 Medical Image Analysis<br>
+🤖 Vision Transformers<br>
+🌐 Multimodal AI<br>
+📊 Feature Extraction
+
+</td>
+
+<td width="50%" align="center">
+
+### ✨ Generative AI
+
+🤖 Large Language Models (LLMs)<br>
+⚡ Prompt Engineering<br>
+🧩 LangChain<br>
+🧠 AI Agents<br>
+📚 Retrieval Augmented Generation (RAG)<br>
+💬 OpenAI APIs<br>
+🚀 Claude APIs<br>
+🌟 Gemini APIs<br>
+📄 Structured Outputs
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Expert-00C853?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EA4335?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C6BC0?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-LLMs-7E57C2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ## 🛠️ Tech Stack
 
