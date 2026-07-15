@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:5b21b6&height=260&section=header&text=Muhammad%20Hammad%20Shahid&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/MuhammadHammadShahid">
+<a href="https://github.com/hammadshahid836-design">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+AI+Chatbots+%26+RAG+Pipelines;Automating+Workflows+with+n8n+%2B+LLMs;Computer+Engineering+%40+UET+Taxila;Turning+Prompts+into+Production+Systems" alt="Typing SVG" />
 </a>
 
@@ -13,7 +13,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Fiverr-AI%20%26%20Automation-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadHammadShahid&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=hammadshahid836-design&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -175,7 +175,7 @@ class HammadShahid:
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshahid836-design&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ## 🛠️ Tech Stack
@@ -289,19 +289,22 @@ Parses exported WhatsApp chats into rich analytics — message stats, word cloud
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadHammadShahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammadShahid&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?
+username=hammadshahid836-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?
+user=hammadshahid836-design&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammadShahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=hammadshahid836-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=c9d1d9"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammadShahid&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hammadshahid836-design&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
 <details>
 <summary><b>🐍 Contribution Snake</b></summary>
 <br/>
-<img src="https://raw.githubusercontent.com/MuhammadHammadShahid/MuhammadHammadShahid/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/hammadshahid836-design/hammadshahid836-design/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <i>(Generates automatically once the <code>github-contribution-grid-snake</code> Action is enabled on this repo)</i>
 </details>
 
