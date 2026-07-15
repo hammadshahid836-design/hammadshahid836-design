@@ -303,12 +303,20 @@ username=hammadshahid836-design&layout=compact&theme=tokyonight&hide_border=true
 
 <details>
 <summary><b>🐍 Contribution Snake</b></summary>
-<br/>
-<img src="https://raw.githubusercontent.com/hammadshahid836-design/hammadshahid836-design/snake.yml" width="100%"/>
-<i>(Generates automatically once the <code>github-contribution-grid-snake</code> Action is enabled on this repo)</i>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hammadshahid836-design/hammadshahid836-design/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</p>
+
+<p align="center">
+  <i>Automatically generated from my GitHub contribution graph.</i>
+</p>
+
 </details>
 
-<br/>
+<br>
 
 ## 🗺️ Current Focus & Roadmap
 
