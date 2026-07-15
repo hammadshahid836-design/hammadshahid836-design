@@ -304,7 +304,7 @@ username=hammadshahid836-design&layout=compact&theme=tokyonight&hide_border=true
 <details>
 <summary><b>🐍 Contribution Snake</b></summary>
 <br/>
-<img src="https://raw.githubusercontent.com/hammadshahid836-design/hammadshahid836-design/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/hammadshahid836-design/hammadshahid836-design/output/snake.yml" width="100%"/>
 <i>(Generates automatically once the <code>github-contribution-grid-snake</code> Action is enabled on this repo)</i>
 </details>
 
